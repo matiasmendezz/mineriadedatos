@@ -13,3 +13,5 @@ A
 ## Hito 2
 
 Estamos trabajando para usted.
+
+- [Presentacion Hito 2](https://docs.google.com/presentation/d/1kwwvxpISGfd6xiy37EAyCyBD3sMC5j25ppTEUgESgNA/edit?usp=sharing)
